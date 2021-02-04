@@ -1,6 +1,6 @@
 # About
 
-
+<img src="https://render.githubusercontent.com/render/math?math=e^{i +\pi} =x+1">
 
 <h1><center> <img  src="https://github.com/firmai/random-assets-two/raw/master/labs/3dgifmaker30.gif" width="28" height="24" style="float:left;">  <strong><font color="#58748B">Agent</font> <font color="grey">Trading</font> </center></h1></strong>
 
