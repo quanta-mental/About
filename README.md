@@ -88,9 +88,9 @@ $
 $ provides companies with empirical markers to guide thoughtful financial decision making in, for example, capital budgeting and allocation. This measure remains a statistics for as long as it is not used in a supervised learning model, at which point it becomes a feature.
 
 <img src="https://github.com/firmai/random-assets-two/raw/master/labs/Mountain_blreal2.png" align="center" width="400"/>
-$
-z=f(b+x \cdot w)=f\left(b+\sum_{i=1}^{n} x_{i} w_{i}\right)
-$
+
+<img src="https://render.githubusercontent.com/render/math?math=z=f(b+x \cdot w)=f\left(b+\sum_{i=1}^{n} x_{i} w_{i}\right)">
+
 
 Soon enough, companies realise that their statistics and predictive models remain a few steps removed from the actual decisions being made. These companies have experimented with different ways to leverage the data and prediction outputs in order to develop end-to-end automation systems. 
 
