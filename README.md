@@ -27,7 +27,7 @@
   <tr>
     <td><table>
   <tr>
-    <td><a href="#prediction_head"> <center><img width="190" height="190" src="https://github.com/firmai/random-assets-two/raw/master/labs/blackboard.png"> </center>  <a/></td>
+    <td><a href="#prediction_head"> <center><img width="170" height="170" src="https://github.com/firmai/random-assets-two/raw/master/labs/blackboard.png"> </center>  <a/></td>
   </tr>
   <tr>
     <td ><center><h3  > Algorithms </h3></center>  </td>
@@ -39,7 +39,7 @@
 </table> </td>
 <td><table>
   <tr>
-    <td><a href="#synth_head"> <center><img width="190" height="190" src="https://github.com/firmai/random-assets-two/raw/master/labs/data-spider.png"> </center>  <a/></td>
+    <td><a href="#synth_head"> <center><img width="170" height="170" src="https://github.com/firmai/random-assets-two/raw/master/labs/data-spider.png"> </center>  <a/></td>
   </tr>
   <tr>
     <td ><center><h3  > Environment </h3></center>  </td>
@@ -51,7 +51,7 @@
 
 <td><table>
   <tr>
-    <td><a href="#vis_head"> <center><img width="190" height="190" src="https://github.com/firmai/random-assets-two/raw/master/labs/business-and-finance.png"> </center>  <a/></td>
+    <td><a href="#vis_head"> <center><img width="170" height="170" src="https://github.com/firmai/random-assets-two/raw/master/labs/business-and-finance.png"> </center>  <a/></td>
   </tr>
   <tr>
     <td ><center><h3  > Learning </h3></center>  </td>
@@ -61,17 +61,6 @@
   </tr>
 </table> </td>
 
-<td><table>
-  <tr>
-    <td><a href="#misc_head"> <center><img width="190" height="190" src="https://github.com/firmai/random-assets-two/raw/master/labs/data.png"> </center>  <a/></td>
-  </tr>
-  <tr>
-    <td ><center><h3  > Performance </h3></center>  </td>
-  </tr>
-  <tr>
-    <td ><a href="#misc_head" ><button > The strategy's performance can be</br> measured on the historical data in a</br> simulated environment or in the market.</button> </a> </td>
-  </tr>
-</table> </td>
   </tr>
 
 </table> 
