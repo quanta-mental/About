@@ -49,18 +49,6 @@
   </tr>
 </table> </td>
 
-<td><table>
-  <tr>
-    <td><a href="#vis_head"> <center><img width="170" height="170" src="https://github.com/firmai/random-assets-two/raw/master/labs/business-and-finance.png"> </center>  <a/></td>
-  </tr>
-  <tr>
-    <td ><center><h3  > Learning </h3></center>  </td>
-  </tr>
-  <tr>
-    <td ><a href="#vis_head" ><button > The agent is then asked to interact with  </br>the environment to learn a strategy or policy </br> that maximises some reward function. </button> </a> </td>
-  </tr>
-</table> </td>
-
   </tr>
 
 </table> 
